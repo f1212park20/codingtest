@@ -11,4 +11,3 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=f1212park20&layout=compact"><br><br>
-<img src="https://github-readme-stats.vercel.app/api?username=f1212park20&show_icons=true">
