@@ -1,6 +1,8 @@
 # codingtest
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingTest&fontSize=90" />
+<div>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=codingTest&fontSize=90" />
+</div>
 
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
