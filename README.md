@@ -1,6 +1,8 @@
 # codingtest
 This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
 <br/>
-풀이 정리
+코테 풀이 정리
 [https://www.notion.so/java-d04f15b8636446a698b0376ff2e82568](https://mirror-parrotfish-80d.notion.site/java-d04f15b8636446a698b0376ff2e82568?pvs=4)https://mirror-parrotfish-80d.notion.site/java-d04f15b8636446a698b0376ff2e82568?pvs=4
-
+<br/>
+sql 고득점 문제
+https://mirror-parrotfish-80d.notion.site/SQL-3cc098c6ceb940c9acd2b2c3bf376a2d?pvs=4
