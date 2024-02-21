@@ -6,6 +6,4 @@ This is a auto push repository for Baekjoon Online Judge created with [BaekjoonH
 <br/>
 sql 고득점 문제
 https://mirror-parrotfish-80d.notion.site/SQL-3cc098c6ceb940c9acd2b2c3bf376a2d?pvs=4
-<br/>
-kt ds University 수업 정리 자료
-https://mirror-parrotfish-80d.notion.site/kt-ds-University-15d955a051d44919826137943c867a44?pvs=4
+
